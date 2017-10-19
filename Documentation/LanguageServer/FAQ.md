@@ -1,4 +1,5 @@
 # Frequently asked questions
+Tried everything but didnt working the error is #include error detected Intellince feature for this translation unit (C:\mingw/hello) will be provided by the Tag parser.
 
 [How do I get IntelliSense to work correctly](#how-do-i-get-intellisense-to-work-correctly)?
 
